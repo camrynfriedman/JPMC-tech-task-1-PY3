@@ -23,7 +23,7 @@ import time
 import json
 import random
 
-# Edited by Camryn Friedman 8/5/22
+### Edited by Camryn Friedman 8/5/22 ###
 
 # Server API URLs
 QUERY = "http://localhost:8080/query?id={}"
